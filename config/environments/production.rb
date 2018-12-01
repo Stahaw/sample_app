@@ -106,4 +106,5 @@ Rails.application.configure do
       :domain         => 'heroku.com',
       :enable_starttls_auto => true
   }
+  
 end
